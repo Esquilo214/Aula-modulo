@@ -1,0 +1,41 @@
+{
+  "produtos": [
+    {
+      "nome": "Bebe reborn",
+      "valor": 10,
+      "qtdEstoque": 3,
+      "id": "r_6Zf3Jec-0"
+    },
+    {
+      "nome": "Luneta",
+      "valor": 7900,
+      "qtdEstoque": 2,
+      "id": "_LZCXM_iaqQ"
+    },
+    {
+      "nome": "Baixo",
+      "valor": 6700,
+      "qtdEstoque": 5,
+      "id": "Xn1vhdBLCvc"
+    },
+    {
+      "nome": "Boneco do 67",
+      "valor": 69,
+      "qtdEstoque": 67,
+      "id": "KycwKFp6ATA"
+    },
+    {
+      "nome": "Sal Marinho",
+      "valor": 80,
+      "qtdEstoque": 45,
+      "id": "oVV_atPYiEI"
+    },
+    {
+      "nome": "Tecla de delete",
+      "valor": 6,
+      "qtdEstoque": 18,
+      "id": "iouzEvboHok"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
